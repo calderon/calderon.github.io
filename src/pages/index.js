@@ -11,6 +11,8 @@ const Home = props => {
 
       <p>It's automatically deployed by using Github actions.</p>
 
+      <p>Or not.</p>
+
       <p>
         You can find out the project on{" "}
         <a href="https://github.com/calderon/blog">github</a>.

@@ -56,6 +56,9 @@ Object {
           It's automatically deployed by using Github actions.
         </p>
         <p>
+          Or not.
+        </p>
+        <p>
           You can find out the project on
            
           <a
@@ -118,6 +121,9 @@ Object {
       </p>
       <p>
         It's automatically deployed by using Github actions.
+      </p>
+      <p>
+        Or not.
       </p>
       <p>
         You can find out the project on
